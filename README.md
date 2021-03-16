@@ -1,1 +1,1 @@
-![Logo Gustave Roussy](https://github.com/gustaveroussy/macroverse/blob/main/Capture.PNG?raw=true)
+![Logo Gustave Roussy](https://github.com/gustaveroussy/macroverse/blob/main/GR.PNG?raw=true)
